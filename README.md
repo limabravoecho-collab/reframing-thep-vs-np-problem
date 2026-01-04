@@ -51,4 +51,4 @@ This resolution is supported by the following scientifically accepted theorems a
 2. **Function:** The distinction exists to preserve the **Causal Chain**. If $P = NP$, the "Search Time" (evolution, thought, physical movement) would drop to zero, violating the causal speed limit ($c$).
 3. **Verifiability:** This is verified by the **Energy-Time Complexity** of any physical computer. As the search space increases, the energy dissipated (entropy) grows exponentially for NP problems, while remaining polynomial for verification. This energy-gradient is the physical proof of the mathematical distinction.
 
-**Final Resolution:** $P$ and $NP$ can never be equal because "Discovery" requires overcoming systemic drag, while "Recognition" is the result of that drag already being resolved.
+**Reframed:** $P$ and $NP$ can never be equal because "Discovery" requires overcoming systemic drag, while "Recognition" is the result of that drag already being resolved.
